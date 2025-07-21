@@ -8,6 +8,7 @@ Our work surveys leading models (e.g., Med-SAM, MedCLIP, diffusion-based methods
 - **Tokenization Challenges**
 - **Loss of Anatomical Detail**
 - **Causality, Trust & Explainability**
+- **Medical Agentic AI**
 - **Hallucinations & Bias**
 - **Prompt Sensitivity**
 - **Modality Transfer & Generalization Gaps**
