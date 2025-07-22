@@ -2,7 +2,7 @@
 
 This repository accompanies our perspective paper, “Foundation Models in Biomedical Imaging: A Hype or a Reality”, a collaborative effort by researchers from multiple institutions to critically evaluate the current landscape of foundation models (FMs) in medical imaging.
 
-Foundation models (FMs) have recently surged in popularity within the biomedical imaging community, promising breakthroughs across various imaging tasks such as segmentation, classification, visual question answering (VQA), detection, and reasoning. Despite impressive performance on curated datasets, there is growing debate about whether these models are truly ready for routine clinical deployment. This paper critically examines whether these advances represent true progress or are largely hype.
+FMs have recently surged in popularity within the biomedical imaging community, promising breakthroughs across various imaging tasks such as segmentation, classification, visual question answering (VQA), detection, and reasoning. Despite impressive performance on curated datasets, there is growing debate about whether these models are truly ready for routine clinical deployment. This paper critically examines whether these advances represent true progress or are largely hype.
 
 Our work surveys leading models (e.g., Med-SAM, MedCLIP, diffusion-based methods, vision-language models) and evaluates their strengths, weaknesses, and real-world performance across imaging modalities and clinical scenarios. The paper challenges the prevailing hype and emphasizing several under-discussed issues such as:
 - **Tokenization Challenges**
